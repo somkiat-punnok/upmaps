@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="satis2" size="450.000000 458.399994" />
+    <ImageTarget name="logosatit" size="450.000000 457.627106" />
+    <ImageTarget name="stup" size="450.000000 227.490768" />
+    <ImageTarget name="spup" size="450.000000 299.926758" />
+    <ImageTarget name="spup2" size="450.000000 176.718750" />
+    <ImageTarget name="55555" size="440.000000 281.167877" />
+    <ImageTarget name="ar-3_111401" size="512.000000 512.000000" />
+  </Tracking>
+</QCARConfig>

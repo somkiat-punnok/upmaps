@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "167844446074",
+    "firebase_url": "https://mapsup-f6fc7.firebaseio.com",
+    "project_id": "mapsup-f6fc7",
+    "storage_bucket": "mapsup-f6fc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167844446074:android:7301a87ff6eac05178e0c3",
+        "android_client_info": {
+          "package_name": "com.example.maps_up"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167844446074-o5pi3pd8ot8shf77df1u79sppql1sa4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXxxM3WVH9AnOFmFDZgsOa_z2IFCTBfRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167844446074-o5pi3pd8ot8shf77df1u79sppql1sa4h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
